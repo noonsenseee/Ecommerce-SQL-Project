@@ -1,0 +1,7 @@
+# Ignore Docker volumes & system files
+*.log
+*.pid
+.env
+__pycache__/
+node_modules/
+.DS_Store
