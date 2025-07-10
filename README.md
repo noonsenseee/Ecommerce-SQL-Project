@@ -66,4 +66,8 @@ docker-compose down -v
 docker-compose up -d
 ✍️ Author
 Your Name
+<<<<<<< HEAD
 GitHub: @noonsenseee
+=======
+GitHub: @noonsenseee
+>>>>>>> 5105d19a4f2b55fe74c5e173d847a537b6e01981
